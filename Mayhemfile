@@ -1,0 +1,5 @@
+project: markdown
+target: markdown
+
+cmds:
+  - cmd: /fuzz_parse
